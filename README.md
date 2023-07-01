@@ -68,6 +68,20 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <br />
 
 <p align="center">
+<img src="https://i.imgur.com/eMoqqSF.png" height="50%" width="50%" alt="Agent Ticket"/>
+</p>
+<p> Jane receives a phone call that a field supervisor needs a new MIFI. As a way to track external requests, Jane creates tickets. In the agent's osTicket webpage, Jane creates a New Ticket. In Tickets, click New Tickets. Jane lists herself as the user. Next to Ticket Notice change to Do Not Send Alert. In the Help Topic, select Equipment Request. For Department, choose Support. For the SLA Plan, select SEV-B. SLA SEV-B sets the grace period for 4 hours in a 24/7 time frame. In the Assign to, Jane assigns it to herself. 
+</p>
+<br />
+
+<p align="center">
+<img src="https://i.imgur.com/9majzws.png" height="50%" width="50%" alt="Self Ticket"/>
+</p>
+<p> Jane treats the ticket as if she was the customer by filling out the message. Jane includes the reason for the equipment to be issue and how it will be handled. In the Internal Notes, Jane logs the MIFI's serial and phone number, then changes the Ticket Status to Resolve.
+</p>
+<br />
+
+<p align="center">
 <img src="https://i.imgur.com/r4gqO2M.png" height="70%" width="70%" alt="Poor Ken"/>
 </p>
 <p> In the OsTicket's Support Center webpage, Ken (user) creates a ticket for Password Reset. Jane accesses the ticket. Jane changes the default settings for Priority's Normal to Low. SLA from Default to SEV-C. SLA SEV-C sets the grace period for 8 hours on a business schedule of Monday-Friday 8am to 5pm with US holidays. Jane responds to Ken message on how the issue will be addressed. Jane has access to the Active Directory and sets Ken's password to be changed on next login. Jane selects the Ticket Status as Resolved. 
@@ -75,57 +89,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <br />
 
 <p align="center">
-<img src="" height="50%" width="50%" alt=""/>
+<img src="https://i.imgur.com/FF3maz0.png" height="50%" width="50%" alt="Bye"/>
 </p>
-<p>
-Description
-</p>
-<br />
-
-<p align="center">
-<img src="" height="50%" width="50%" alt=""/>
-</p>
-<p>
-Description
-</p>
-<br />
-
-<p align="center">
-<img src="" height="50%" width="50%" alt=""/>
-</p>
-<p>
-Description
-</p>
-<br />
-
-<p align="center">
-<img src="" height="50%" width="50%" alt=""/>
-</p>
-<p>
-Description
-</p>
-<br />
-
-<p align="center">
-<img src="" height="50%" width="50%" alt=""/>
-</p>
-<p>
-Description
-</p>
-<br />
-
-<p align="center">
-<img src="" height="50%" width="50%" alt=""/>
-</p>
-<p>
-Description
-</p>
-<br />
-
-<p align="center">
-<img src="" height="50%" width="50%" alt=""/>
-</p>
-<p>
-Description
+<p> align="center" This is the end of osTicket Lifecycle. 
 </p>
 <br />
