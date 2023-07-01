@@ -28,7 +28,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <p align="center">
 <img src="https://i.imgur.com/U8VPRJw.png" height="50%" width="50%" alt="Customer Login"/>
 </p>
-<p> In the osTicket page for users (http://localhost/osTicket/), click on Open a New Ticket. Log in as user (Karen Hart) created in the previous tutorial. 
+<p> In the osTicket's Support Center webpage for users (http://localhost/osTicket/), click on Open a New Ticket. Log in as user (Karen Hart) created in the previous tutorial. 
 </p>
 <br />
 
@@ -68,10 +68,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <br />
 
 <p align="center">
-<img src="" height="50%" width="50%" alt=""/>
+<img src="https://i.imgur.com/r4gqO2M.png" height="70%" width="70%" alt="Poor Ken"/>
 </p>
-<p>
-Description
+<p> In the OsTicket's Support Center webpage, Ken (user) creates a ticket for Password Reset. Jane accesses the ticket. Jane changes the default settings for Priority's Normal to Low. SLA from Default to SEV-C. SLA SEV-C sets the grace period for 8 hours on a business schedule of Monday-Friday 8am to 5pm with US holidays. Jane responds to Ken message on how the issue will be addressed. Jane has access to the Active Directory and sets Ken's password to be changed on next login. Jane selects the Ticket Status as Resolved. 
 </p>
 <br />
 
