@@ -70,14 +70,14 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <p align="center">
 <img src="https://i.imgur.com/eMoqqSF.png" height="50%" width="50%" alt="Agent Ticket"/>
 </p>
-<p> Jane receives a phone call that a field supervisor needs a new MIFI. As a way to track external requests, Jane creates tickets. In the agent's osTicket webpage, Jane creates a New Ticket. In Tickets, click New Tickets. Jane lists herself as the user. Next to Ticket Notice change to Do Not Send Alert. In the Help Topic, select Equipment Request. For Department, choose Support. For the SLA Plan, select SEV-B. SLA SEV-B sets the grace period for 4 hours in a 24/7 time frame. In the Assign to, Jane assigns it to herself. 
+<p> Jane receives a phone call that a field supervisor needs a new MIFI. As a way to track the external request, Jane creates a ticket. In the agent's osTicket webpage, Jane creates a New Ticket. In Tickets, click New Tickets. Jane lists herself as the user. Next to Ticket Notice change to Do Not Send Alert. In the Help Topic, select Equipment Request. For Department, choose Support. For the SLA Plan, select SEV-B. SLA SEV-B sets the grace period for 4 hours in a 24/7 time frame. In the Assign to, Jane assigns it to herself. 
 </p>
 <br />
 
 <p align="center">
 <img src="https://i.imgur.com/9majzws.png" height="50%" width="50%" alt="Self Ticket"/>
 </p>
-<p> Jane treats the ticket as if she was the customer by filling out the message. Jane includes the reason for the equipment to be issue and how it will be handled. In the Internal Notes, Jane logs the MIFI's serial and phone number, then changes the Ticket Status to Resolve.
+<p> Jane treats the ticket as if she was the customer by filling out the message. Jane includes the reason for issuing out the equipment and how it will be handled. In the Internal Notes, Jane logs the MIFI's serial and phone number, then changes the Ticket Status to Resolve.
 </p>
 <br />
 
